@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Each section contains notes about a certain topic covered during the prework for UD Bootcamp, such as HTML, CSS, JavaScript, Git. 
+Each section contains notes about a certain topic covered during the prework for DU Bootcamp, such as HTML, CSS, JavaScript, Git. 
 If you open the DevTools console; open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser, you can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first.
 
 ## Credits
